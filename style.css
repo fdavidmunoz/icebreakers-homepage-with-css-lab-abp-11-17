@@ -36,6 +36,6 @@ nav a:hover {
   color: #0056b3;
 }
 
-h3 header {
+h3#header {
   float: right;
 }
