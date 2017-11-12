@@ -70,3 +70,10 @@ div.jumbotron {
   padding: 0 40px 0 40px;
   line-height: 40px;
 }
+
+div.questions {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
