@@ -39,3 +39,8 @@ nav a:hover {
 h3#header {
   float: left;
 }
+
+#header a{
+  text-decoration: none;
+  color: #868e96;
+}
